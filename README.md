@@ -1,3 +1,3 @@
 # Dijkstra-
 
-Dijkstra's Algorithm to find the shortest distance between two paths.
+Dijkstra's Algorithm and A Star Algorithm to find the shortest distance between two paths.
